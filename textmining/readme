@@ -1,1 +1,4 @@
-Webscraping to extract tables from a website and saving it in a csv file
+Webscraping to extract tables from a website and saving it in a csv file(covidkerala)
+
+
+Webscraping using Beautifulsoup and pandas and extracting the tables from a website and saving the tables into separate csv files(new_covidkerala_t1,new_covidkerala_t2,new_covidkerala_t3)
